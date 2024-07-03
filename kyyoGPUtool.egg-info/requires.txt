@@ -1,0 +1,2 @@
+prettytable
+nvidia-ml-py
